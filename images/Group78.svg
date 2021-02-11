@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450.771" height="102.508" viewBox="0 0 450.771 102.508">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9a1d37;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 40px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-3 {
+        font-family: FontAwesome;
+      }
+    </style>
+  </defs>
+  <g id="Group_78" data-name="Group 78" transform="translate(-151 -2967.246)">
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M0,0H450.771L412.456,54.616l38.315,47.891H0Z" transform="translate(151 2967.246)"/>
+    <text id="More_items_to_explore" data-name="More items to explore" class="cls-2" transform="translate(163 3030)"><tspan x="0" y="0">More</tspan><tspan class="cls-3" y="0"> </tspan><tspan y="0">items</tspan><tspan class="cls-3" y="0"> </tspan><tspan y="0">to</tspan><tspan class="cls-3" y="0"> </tspan><tspan y="0">explore</tspan></text>
+  </g>
+</svg>
